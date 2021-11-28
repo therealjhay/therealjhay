@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @therealjhay
-- 👀 I’m interested in Cryptocurrencies
+- 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on blockchain jobs
 - 📫 How to reach me, Whatsapp and IG
