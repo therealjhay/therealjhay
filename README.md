@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Johnson Oyemade 👋</h1>
 
 <p align="center">
-  <em>A Fullstack Web2 and Web3 software developer <strong>ALX</strong>, with a strong drive to build, solve, and scale impactful solutions across the Web3 space and beyond.</em>
+  <em>A Fullstack Web2 and Web3 software developer, with a strong drive to build, solve, and scale impactful solutions across the Web3 space and beyond.</em>
 </p>
 
 ---
