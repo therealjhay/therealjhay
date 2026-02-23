@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Johnson Oyemade 👋</h1>
 
 <p align="center">
-  <em>A backend software engineer in training via <strong>ALX</strong>, with a strong drive to build, solve, and scale impactful solutions across the Web3 space and beyond.</em>
+  <em>A Fullstack Web2 and Web3 software developer <strong>ALX</strong>, with a strong drive to build, solve, and scale impactful solutions across the Web3 space and beyond.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently enrolled in the **ALX Software Engineering (Backend)** program  
+- 🎓 Currently enrolled in the **WEB3BRIDGE SOLIDITY** program  
 - 🧠 I’m passionate about building and providing solutions through tech  
-- 🧱 I’m especially interested in **Web3, backend architecture**, and scalable systems  
-- 🎯 My vision: <strong>To become a Full Stack Web3 Developer and a Certified Project Manager within 2 years</strong>  
+- 🧱 I’m especially interested in **Web3, Fullstack architecture**, and scalable systems
 - 🛠 I enjoy exploring open source, smart contracts, and distributed systems
 
 ---
@@ -19,8 +18,9 @@
 ## 💼 What I'm Working On
 
 - 🔨 Web3 dApps with **Solidity**, **Hardhat**, and **Next.js**
-- 📦 Backend solutions using **Node.js**, **Express**, **PostgreSQL**, and **Docker**
-- 🚀 Participating in projects, hackathons, and real-world backend builds via ALX
+- 🛠 Frontend solutions using **React**, **Javascript**, **Typescript** and more
+- 📦 Backend solutions using **Django**, **Express**, **PostgreSQL**, and **Docker**
+- 🚀 Participating in projects, hackathons, and real-world backend builds
 - 🧩 Exploring smart contract security and blockchain development frameworks
 
 ---
