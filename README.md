@@ -15,25 +15,6 @@
 
 ---
 
-## 💼 What I'm Working On
-
-- 🔨 Web3 dApps with **Solidity**, **Hardhat**, and **Next.js**
-- 🛠 Frontend solutions using **React**, **Javascript**, **Typescript** and more
-- 📦 Backend solutions using **Django**, **Express**, **PostgreSQL**, and **Docker**
-- 🚀 Participating in projects, hackathons, and real-world backend builds
-- 🧩 Exploring smart contract security and blockchain development frameworks
-
----
-
-## 📘 Currently Learning
-
-- 📗 Smart Contract Engineering (Solidity, Chainlink, Ethers.js)  
-- 📘 API development and microservices  
-- 📙 Systems design principles and distributed architecture  
-- 🧠 Improving soft skills: communication, collaboration, and creative problem-solving
-
----
-
 ## 🧰 Tech Stack
 
 <p>
@@ -45,16 +26,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
-
----
-
-## 🧪 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🪙 **Tip Jar DApp** | Simple Web3 tipping app using smart contracts | Solidity, Hardhat, React |
-| 🗳️ **DAO Voting Tool** | Voting platform powered by token holders | Solidity, Next.js, IPFS |
-| 📈 **Project Tracker API** | RESTful API for managing PM tasks | Node.js, Express, PostgreSQL |
 
 ---
 
