@@ -33,7 +33,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johnson-oyemade-185864173/)
 - 📨 Email: [johnsonoca@gmail.com](mailto:johnsonoca@gmail.com)
-- 🌍 Portfolio: *Coming soon*
+- 🌍 Portfolio: [therealjhay.tech](https://www.therealjhay.tech/)
 
 ---
 
