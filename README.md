@@ -85,9 +85,18 @@ Bringing AI models into real-world applications — from automation pipelines to
 
 ### 📫 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/oyemade-johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oyemade-johnson" height="30" width="40" /></a>
-<a href="https://twitter.com/0xjhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xjhay" height="30" width="40" /></a>
-<a href="mailto:johnsonoca@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/></a>
-<a href="https://therealjhay.tech"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="28"/></a>
-</p>
+<div align="center">
+
+💼 **[LinkedIn](https://www.linkedin.com/in/oyemade-johnson)** &nbsp;·&nbsp;
+📧 **[johnsonoca@gmail.com](mailto:johnsonoca@gmail.com@gmail.com)** &nbsp;·&nbsp;
+🌍 **[Portfolio](https://therealjhay.tech/)**
+
+*Open to exploring interesting projects, collaborations, and conversations.*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+</div>
