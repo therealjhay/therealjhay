@@ -1,16 +1,9 @@
-```
- ██████╗  ██╗  ██╗       ██╗ ██╗               ██╗   ██╗
-██╔═══██╗ ╚██╗██╔╝       ██║ ██║       █████╗  ╚██╗ ██╔╝
-██║██╗██║  ╚███╔╝        ██║ ███████╗ ██╔══██╗  ╚████╔╝ 
-██║╚████║  ██╔██╗  ██╗   ██║ ██╔══██╗ ███████║   ╚██╔╝  
-╚██████╔╝ ██╔╝ ██╗ ╚██████╔╝ ██║  ██║ ██╔══██║    ██║   
- ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝    ╚═╝
- ```
-
-<h1 align="center">Hi 👋, I'm Johnson Oyemade</h1>
-<h3 align="center">Fullstack Web3 Engineer | Smart Contract Security & Architecture</h3>
-
 <div align="center">
+ 
+# Hi 👋, I'm Jhay
+
+### Full-stack Engineer | Blockchain Developer | AI Integration
+
   <p><em>"Code not just to build, but to empower. Learn not just to finish, but to lead."</em></p>
 </div>
 
@@ -18,12 +11,36 @@
 
 ### 🚀 About Me
 
-I am a developer focused on building secure, scalable, and decentralized infrastructure. My work spans from writing low-level EVM opcodes and secure smart contracts to architecting high-performance backends and intuitive frontends. 
+I am a **Full-stack software Engineer** focused on building secure, scalable, and decentralized infrastructure. My work spans from writing low-level EVM opcodes and secure smart contracts to architecting high-performance backends and intuitive frontends. 
 
 * 🛡️ **Focus:** Smart contract security, defensive programming, and EVM exploit development (CTFs).
 * 🏗️ **Building:** Modular Web3 protocols, localized fintech solutions, and AI-driven platforms.
 * 💻 **Environment:** Strictly building and debugging in a Linux terminal.
 * 📝 **Writing:** Occasionally breaking down complex Web3 concepts, React hooks, and EVM mechanics into digestible technical content.
+
+<table>
+<tr>
+<td width="50%">
+
+**🖥️ Full-Stack Engineering**
+I build end-to-end applications with React, Next.js, Node.js (Express/NestJS), Python, and TypeScript. RESTful API designs that are clean, documented, and developer-friendly.
+
+**⛓️ Web3 & Smart Contracts**
+I have experience with Solidity development, dApp architecture, and a strong focus on smart contract security and advanced on-chain patterns.
+
+</td>
+<td width="50%">
+
+
+**☁️ Cloud & DevOps**
+Managing cloud environments on AWS & GCP. Containerisation with Docker. Deploying resilient, scalable architectures.
+
+**🤖 AI Integration**
+Bringing AI models into real-world applications — from automation pipelines to intelligent user experiences.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,8 +69,16 @@ I am a developer focused on building secure, scalable, and decentralized infrast
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealjhay&show_icons=true&theme=tokyonight&hide_border=true" alt="Johnson's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealjhay&theme=tokyonight&hide_border=true" alt="Johnson's Streak" />
+
+<!-- Stats card via github-stats alternative -->
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therealjhay&theme=merko" />
+&nbsp;
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therealjhay&theme=merko" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=therealjhay&theme=merko&hide_border=true&dates=true&cache_seconds=3600" width="60%" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=therealjhay&theme=merko&radius=10&hide_border=true&area=true" width="90%" />
+
 </div>
 
 ---
